@@ -1,1 +1,2 @@
-second test
+This is a practice to get myself familiar with the GitHub 
+
