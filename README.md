@@ -1,3 +1,3 @@
 # 501Git_labs
-Tutorials for using Git and github
+Tutorials for using Git and Github
 
